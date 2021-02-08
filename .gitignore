@@ -1,0 +1,7 @@
+*.vpk
+/bin/*
+/logs/*
+/maps/*
+/panorama/*
+/scenes/*
+/expressions/*

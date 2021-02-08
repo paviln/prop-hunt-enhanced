@@ -1,0 +1,64 @@
+L 10/23/2020 - 14:05:14: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 14:05:14: [CLIENTPREFS] Attempting to reconnect to database...
+L 10/23/2020 - 14:05:49: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 14:05:49: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 14:15:48: Log file closed.
+L 10/23/2020 - 14:17:40: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 14:17:40: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 14:18:39: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" drugged "paviln<2><STEAM_1:0:124466746><>"
+L 10/23/2020 - 14:18:43: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" drugged "paviln<2><STEAM_1:0:124466746><>"
+L 10/23/2020 - 14:18:48: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" drugged "Martin<3><BOT><>"
+L 10/23/2020 - 14:18:49: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" undrugged "paviln<2><STEAM_1:0:124466746><>"
+L 10/23/2020 - 14:18:55: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set a TimeBomb on "paviln<2><STEAM_1:0:124466746><>"
+L 10/23/2020 - 14:19:23: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Martin<3><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:24: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Henry<4><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:25: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Mike<5><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:27: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Brandon<6><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:28: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Dennis<7><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:30: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Dennis<7><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:35: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Pat<8><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:37: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Dean<9><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:39: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Nate<10><BOT><>" (amount "255")
+L 10/23/2020 - 14:19:42: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Tim<11><BOT><>" (amount "255")
+L 10/23/2020 - 14:20:08: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "Brandon<6><BOT><>" (amount "255")
+L 10/23/2020 - 14:20:15: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "paviln<2><STEAM_1:0:124466746><>" (amount "255")
+L 10/23/2020 - 14:20:19: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set blind on "paviln<2><STEAM_1:0:124466746><>" (amount "0")
+L 10/23/2020 - 14:20:29: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set a TimeBomb on "Henry<4><BOT><>"
+L 10/23/2020 - 14:20:30: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set a TimeBomb on "Mike<5><BOT><>"
+L 10/23/2020 - 14:20:31: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set a TimeBomb on "Dean<9><BOT><>"
+L 10/23/2020 - 14:20:31: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set a TimeBomb on "Nate<10><BOT><>"
+L 10/23/2020 - 14:21:27: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "Martin<3><BOT><>" (amount "4.000000")
+L 10/23/2020 - 14:21:30: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "Martin<3><BOT><>" (amount "4.000000")
+L 10/23/2020 - 14:21:35: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "Martin<3><BOT><>" (amount "1.000000")
+L 10/23/2020 - 14:21:59: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "4.000000")
+L 10/23/2020 - 14:22:03: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "0.100000")
+L 10/23/2020 - 14:22:25: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "0.100000")
+L 10/23/2020 - 14:22:33: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "0.500000")
+L 10/23/2020 - 14:22:46: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "0.100000")
+L 10/23/2020 - 14:22:53: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "4.000000")
+L 10/23/2020 - 14:23:07: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "Pat<8><BOT><>" (amount "0.100000")
+L 10/23/2020 - 14:23:09: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "0.100000")
+L 10/23/2020 - 14:24:02: [funcommands.smx] "paviln<2><STEAM_1:0:124466746><>" set gravity on "paviln<2><STEAM_1:0:124466746><>" (amount "0.100000")
+L 10/23/2020 - 19:27:48: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 19:27:48: -------- Mapchange to hoejhus9_csgo --------
+L 10/23/2020 - 19:32:36: Log file closed.
+L 10/23/2020 - 20:02:43: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 20:02:43: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:03:02: Log file closed.
+L 10/23/2020 - 20:05:38: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 20:05:38: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:06:01: Log file closed.
+L 10/23/2020 - 20:12:22: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 20:12:22: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:12:48: Log file closed.
+L 10/23/2020 - 20:17:39: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 20:17:39: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:20:08: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:20:44: Log file closed.
+L 10/23/2020 - 20:27:24: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 20:27:24: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:29:50: Log file closed.
+L 10/23/2020 - 20:30:32: SourceMod log file session started (file "/home/steam/.steam/steamcmd/csgo-01/csgo/addons/sourcemod/logs/L20201023.log") (Version "1.10.0.6498")
+L 10/23/2020 - 20:30:32: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:32:57: -------- Mapchange to de_dust2 --------
+L 10/23/2020 - 20:36:26: Log file closed.
